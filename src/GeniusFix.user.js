@@ -8,6 +8,7 @@
 // @match                   https://genius.com/*annotated
 // @icon                    https://www.google.com/s2/favicons?sz=64&domain=genius.com
 // @grant                   none
+// @license                 MIT
 // @homepage                https://github.com/greatalazar/GeniusFix#readme
 // @homepageURL             https://github.com/greatalazar/GeniusFix#readme
 // @supportURL              https://github.com/greatalazar/GeniusFix/issues
